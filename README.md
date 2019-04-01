@@ -65,4 +65,16 @@ Contenido:
 * Idioma: español
 * Tamaño: 1.5 MB
 
-La autora Venezolana Johana Milá de la Roca C, uniendose a una noble causa te invita a ser parte de una nueva historia, en la que te sentirás protagonista de un universo causal que de alguna u otra manera has atraído sin suerte de azar. Porque leer cuentos de viajes va más allá de una narrativa dichosa en adjetivos y metáforas, es una experiencia individualmente compartida que involucra tus sentidos, tus recuerdos y tu capacidad de imaginación.
+La autora Venezolana Johana Milá de la Roca C, uniendose a una noble causa, ha donado su libro y te invita a ser parte de una nueva historia, en la que te sentirás protagonista de un universo causal que de alguna u otra manera has atraído sin suerte de azar. Porque leer cuentos de viajes va más allá de una narrativa dichosa en adjetivos y metáforas, es una experiencia individualmente compartida que involucra tus sentidos, tus recuerdos y tu capacidad de imaginación.
+
+### [Las flores del Mal](pdf/Las_flores_del_mal.pdf)
+
+* Origen: https://freeditorial.com/es/books/las-flores-del-mal
+* Categoria: #poesia
+* Año: 1857
+* Editor: Freeditorial
+* Páginas:    47
+* Idioma: español
+* Tamaño: 177K
+
+Envuelta en escándalo en el momento de su aparición, Las Flores del Mal inauguró una poética innovadora que se traduce en la búsqueda de la musicalidad del poema, en la audacia de la imagen y en el famoso sistema de «correspondencias» que habría de dar origen al movimiento simbolista. Desgarrada entre la sensualidad y el espiritualismo, entre la atracción de la belleza y el poder del mal, la poesía de Baudelaire se enraiza en la soledad del hombre contemporáneo.
