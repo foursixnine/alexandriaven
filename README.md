@@ -78,3 +78,15 @@ La autora Venezolana Johana Milá de la Roca C, uniendose a una noble causa, ha 
 * Tamaño: 177K
 
 Envuelta en escándalo en el momento de su aparición, Las Flores del Mal inauguró una poética innovadora que se traduce en la búsqueda de la musicalidad del poema, en la audacia de la imagen y en el famoso sistema de «correspondencias» que habría de dar origen al movimiento simbolista. Desgarrada entre la sensualidad y el espiritualismo, entre la atracción de la belleza y el poder del mal, la poesía de Baudelaire se enraiza en la soledad del hombre contemporáneo.
+
+### [React Native Notes for Professionals](pdf/ReactNativeNotesForProfessionals.pdf)
+
+* Origen: https://goalkicker.com/ReactNativeBook/
+* Categoria: #software
+* Año: 2018
+* Editor: The beautiful people at Stack Overflow
+* Páginas: 91
+* Idioma: inglés
+* Tamaño: 1.4MB
+
+The React Native Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow. Text content is released under Creative Commons BY-SA. See credits at the end of this book whom contributed to the various chapters. Images may be copyright of their respective owners unless otherwise specified
