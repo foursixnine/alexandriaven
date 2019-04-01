@@ -36,7 +36,7 @@ Un libro ameno, interesante y que merece la pena leerse, sobretodo para aquellas
 Es una obra literaria de la escritora inglesa Mary Shelley. Publicado el 11 de marzo de 1818 y enmarcado en la tradición de la novela gótica, el texto habla de temas tales como la moral científica, la creación y destrucción de vida y el atrevimiento de la humanidad en su relación con Dios. De ahí, el subtítulo de la obra: el protagonista intenta rivalizar en poder con Dios, como una suerte de Prometeo moderno que arrebata el fuego sagrado de la vida a la divinidad. Pertenece al género ciencia ficción.
 
 ### [Dibujo artístico - Nociones Básicas](pdf/Dibujo-Artistico-Basico.pdf)
-* Origen: https://openlibra.com/es/book/dibujo-artistico-nociones-basicas)
+* Origen: https://openlibra.com/es/book/dibujo-artistico-nociones-basicas
 * Categoria: #aprendizaje #ilustracion
 * Año:    2009
 * Editor: Autoedición
@@ -55,3 +55,14 @@ Contenido:
 - Formas artificiales
 - Formas naturales
 - Cuerpo humano
+
+### [La vida es un viaje](pdf/La_vida_es_un_viaje-JMRC.pdf)
+* Origen: https://www.amazon.com/vida-es-viaje-Spanish/dp/171789870X
+* Categoria: #viajes #turismo #relatos
+* Año: 2018
+* Editor: Independiente
+* Páginas:    127
+* Idioma: español
+* Tamaño: 1.5 MB
+
+La autora Venezolana Johana Milá de la Roca C, uniendose a una noble causa te invita a ser parte de una nueva historia, en la que te sentirás protagonista de un universo causal que de alguna u otra manera has atraído sin suerte de azar. Porque leer cuentos de viajes va más allá de una narrativa dichosa en adjetivos y metáforas, es una experiencia individualmente compartida que involucra tus sentidos, tus recuerdos y tu capacidad de imaginación.
