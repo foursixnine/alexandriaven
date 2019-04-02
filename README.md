@@ -90,3 +90,15 @@ Envuelta en escándalo en el momento de su aparición, Las Flores del Mal inaugu
 * Tamaño: 1.4MB
 
 The React Native Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow. Text content is released under Creative Commons BY-SA. See credits at the end of this book whom contributed to the various chapters. Images may be copyright of their respective owners unless otherwise specified
+
+### [El diario de Ana Frank](pdf/el_diario_de_ana_frank.pdf)
+
+* Origen: https://freeditorial.com/es/books/el-diario-de-ana-frank
+* Categoria: #drama #autobiografia
+* Año: 1947
+* Editor: Freeditorial
+* Páginas: 195
+* Idioma: español
+* Tamaño: 878K
+
+Con el título de El diario de Ana Frank,se conoce la edición de los diarios personales escritos por Ana Frank entre el 12 de junio de 1942 y el 1 de agosto de 1944 en un total de tres cuadernos conservados en la actualidad, donde relata su historia como adolescente y los dos años en que permaneció oculta de los nazis, con su familia alemana de origen judío, en Ámsterdam durante la Segunda Guerra Mundial. 
