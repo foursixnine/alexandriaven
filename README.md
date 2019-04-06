@@ -325,3 +325,101 @@ La República —en griego Πολιτεία (Politeia), que proviene de πόλι
  - Tamaño: 2.4MB
 
  Problems on Algorithms contains 668 problems on the design, verification, and analysis of algorithms. This chapter is the only background that you will get before we start listing problems. It is divided into four sections. The first section describes the philosophy of this book and how to get the best out of it. The second section  contains an overview of the remaining chapters. The third section briefly touches on the pseudocode used to describe algorithms. The fourth section gives a quick review of some of the textbooks available on algorithms and related subjects.
+
+### [Protección de datos personales en las redes sociales digitales : en particular de niños y adolescentes](pdf/protecciondedatos.pdf)
+
+ - Origen: https://dspace-libros.metabiblioteca.com.co/jspui/handle/001/307
+ - Categoria: #seguridad #rrss #ddhh #internet
+ - Autor: Gregorio, Carlos G y Ornelas, Lina
+ - Año: 2011
+ - Páginas: 290
+ - Idioma: español
+ - Tamaño: 2.34MB
+
+Este documento, toma como base el memorándum de Montevideo, documento que reunió a representantes de la industria, medios de comunicación, legisladores, jueces, padres de familia, organizaciones de la sociedad civil y autoridades en educación con el objeto de fomentar el diálogo, conocer el estado que guarda la cuestión en nuestro país, definir las estrategias y alentar la adopción de políticas públicas encaminadas a la protección de los menores en Internet.
+El documento contiene una serie de recomendaciones dirigidas a organismos gubernamentales, a legisladores, a jueces, a la sociedad y a la industria de las redes sociales, para que, en el ámbito de sus respectivas competencias, se comprometan a trabajar a favor de la protección de los menores y de sus datos.
+
+### [Dictadura del diseño: notas para estudiantes molestos](pdf/dictadura_del_diseño.pdf)
+
+ - Origen: https://dspace-libros.metabiblioteca.com.co/jspui/handle/001/275
+ - Categoria: #diseño #tipografia #informatica
+ - Autor: Carlos Carpintero
+ - Año: 2009
+ - Páginas: 68
+ - Idioma: español
+ - Tamaño: 975KB
+
+Este es un libro para estudiantes de Diseño Gráfico. Son textos fáciles para personas difíciles. Reúne algunos temas desarrollados por el diseñador argentino Carlos Carpintero para diversas publicaciones (sitios de universidades, publicaciones especializadas, revistas digitales, weblogs) junto a textos inéditos que por diversos motivos quedaron en alguna ruta y encontraron aquí su destino. Para quien busque anécdotas y recetas, este no es el lugar. De hecho hay pocas letras inéditas porque se trata de una compilación de textos vivos, algunos de ellos incluso en tránsito, pequeñas piezas desarrolladas para cumplir una finalidad didáctica específica.
+Son textos fáciles para personas difíciles. Reúne algunos temas desarrollados por el autor para diversas publicaciones (sitios de universidades, publicaciones especializadas, revistas digitales, weblogs) junto a textos inéditos que por diversos motivos quedaron en alguna ruta y encontraron aquí su destino.
+
+### [Programación de videojuegos con SDL](pdf/Programacion_Videojuegos_SDL.pdf)
+
+ - Origen: https://dspace-libros.metabiblioteca.com.co/jspui/handle/001/271
+ - Categoria: #juegos #software #programacion #informatica
+ - Autor: Alberto Garcia Serrano
+ - Año: 2003
+ - Páginas:155
+ - Idioma: Español
+ - Tamaño: 1.29
+
+SDL es una librería multiplataforma diseñada para proporcionar acceso al teclado, ratón, joystick, hardware 3D vía OpenGL y vídeo 2D. SDL te permitirá crear videojuegos 2D y 3D de forma sencilla accediendo a toda la potencia de la máquina. Aunque no es tan nueva como GoDot engine u otros, algo se puede aprender de una libreria que existia cuando los recursos computacionales no estaban a la mano de todos. O te atreves a hacer un port de estos proyectos a algo mas nuevo?.
+
+### [Periodismo Digital: convergencias redes y móviles](pdf/convergenciasredesymóviles.pdf)
+
+ - Origen: https://dspace-libros.metabiblioteca.com.co/jspui/handle/001/296
+ - Categoria: #periodismo #internet
+ - Autor: Matias Manna, Dardo Ceballos, Fernando Irigaray
+ - Año: 2011
+ - Páginas: 153
+ - Idioma: español
+ - Tamaño: 3.83MB
+
+Desde FLC nos sentimos orgullosos de poder presentar hoy esta publicación como resultado del Cuarto Foro de Periodismo Digital en Rosario, iniciativa compartida con Universidad Nacional de Rosario y Fundación OSDE. Luego de tres años de trabajo en conjunto, las instituciones mencionadas y Fundación La Capital decidieron aumentaron su compromiso y su apuesta proyectando este Foro a nivel internacional, enriqueciéndolo con la presencia de especialistas de diferentes países que aportarán su mirada sobre las profundas transformaciones que provoca el avatar digital sobre los medios de comunicación. Como fundación de un grupo de medios, el constante avance del mundo digital nos interesa desde el punto de vista académico, nos desafía la aparición de nuevas formas de comunicación, los nuevos roles del comunicador, los nuevos formatos de la información, su aceleración y su efecto sobre los consumidores.
+
+### [La sociedad de la ignorancia y otros ensayos](pdf/sociedaddelaignorancia.pdf)
+
+ - Origen: https://dspace-libros.metabiblioteca.com.co/jspui/handle/001/204
+ - Categoria: #periodismo #comunicacion
+ - Autor: Brey Antoni, Campàs Joan, Mayos Solsona Gonçal
+ - Año: 2009
+ - Páginas: 70
+ - Idioma: español
+ - Tamaño: 661KB
+
+Recopilación de tres ensayos del ingeniero Antoni Brey y los filósofos Daniel Innerarity y Gonçal Mayos, con un prólogo del antropólogo Eudald Carbonell. Una reflexión acerca de la influencia que las nuevas formas de comunicación tienen sobre el individuo y sobre el funcionamiento y la distribución del poder en las sociedades democráticas. Los autores repasan la otra cara de la Sociedad del Conocimiento, en la que los ciudadanos, inundados de información, se enfrentan a una dificultad creciente para interpretar la realidad de un mundo que es cada día más complejo.
+
+### [Kasparov vs. Deep Blue. La conflictiva relación hombre máquina](pdf/KasparovvsDeepBlue.pdf)
+
+ - Origen: https://dspace-libros.metabiblioteca.com.co/jspui/handle/001/357
+ - Categoria: #inteligenciaartificial #tecnologia #maquinas
+ - Autor: Adaime, Iván
+ - Año: 2011
+ - Páginas: 54
+ - Idioma: español
+ - Tamaño: 379KB
+
+El objetivo del presente trabajo es tratar de dar cuenta de la relación entre el hombre y las máquinas a partir de un hecho puntual: la victoria de Deep Blue sobre Kasparov. Los cambios tecnológicos actuales pueden servir para un análisis retrospectivo del significado cultural de tecnología.
+
+### [Internet, hackers y software libre](pdf/internethackersysoftwarelibre.pdf)
+
+ - Origen: https://dspace-libros.metabiblioteca.com.co/jspui/handle/001/326
+ - Categoria: #linux #softwarelibre #tecnologia #hacking
+ - Autor: Gradín, Carlos
+ - Año: 2004
+ - Páginas: 242
+ - Idioma: español
+ - Tamaño: 843KB
+
+Este libro se trata de una antología que pretende servir de introducción a la historia de Internet, los hackers y el software libre. También aborda las problemáticas del copyright y los derechos de privacidad en internet. Sin olvidar algunas miradas retrospectivas como la del movimiento Ciberpunk.
+
+### [Poética para cosmonautas](pdf/poetica.pdf)
+
+ - Origen: https://dspace-libros.metabiblioteca.com.co/jspui/handle/001/499
+ - Categoria: #poesia #astronomia
+ - Autor: Pierrot, Henry
+ - Año: 2009
+ - Páginas: 59
+ - Idioma: español
+ - Tamaño:1.53
+
+ En «Poética para cosmonautas» Henry Pierrot explora terrenos fronterizos entre la poesía y el relato. El resultado es un poemario que aúna condensación y transparencia, manteniendo un grado de unidad desde el primer al último verso como pocas veces se ha logrado, intentando realizar un mapa estetico de las galaxias.
