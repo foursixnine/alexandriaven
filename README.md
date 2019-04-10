@@ -480,3 +480,53 @@ La historia comienza aproximadamente 250 años después del final de La caída d
 Los Cantos de Hyperion de Dan Simmons cuentan la historia de una humanidad en peligro en donde su suerte y su destino se juega en el planeta Hyperion. Siguiendo evidentemente el símil de la Caída de los Titanes por parte de los Dioses olímpicos, las dos primeras partes describen la lenta preparación del cataclismo y Caída del hombre que cristalizará en una nueva era para la humanidad.
 
 Narra las peripecias de Aenea, también llamada "La que Enseña", para huir del brazo militar de la Iglesia Católica llamado “Pax”. El antiguo régimen de la Red de Mundos de la Hegemonía del Hombre fue sustituido por una teocracia y la Iglesia, en su afán de mantener el poder, se ha unido al Tecnonúcleo de Inteligencias Artificiales en secreto. Esta traición hacia toda la humanidad es del conocimiento de Aenea; agentes de Pax cazarán a Aenea por distintos mundos de la antigua Red para acallarla.
+
+### [ Historia de Roma](pdf/historia_de_roma.pdf)
+
+ - Origen: https://freeditorial.com/es/books/historia-de-roma
+ - Categoria: #historia
+ - Autor: Indro Montanelli
+ - Año: 1957
+ - Páginas: 270
+ - Idioma: español
+ - Tamaño: 1.3M
+
+Los próceres y las personalidades de Roma no eran distintos del común de los mortales. César fue un mujeriego toda su vida y se avergonzaba de su calvicie, pero eso no desmerece su grandeza de militar y estadista. Augusto no dedicó todo su tiempo a organizar el Imperio, sino que parte del mismo lo ocupó en combatir la colitis y los reumatismos... Historia de Roma ofrece una serie de relatos apasionantes y veraces que iluminan en sus justos términos a los protagonistas de aquella época irrepetible.
+
+### [Historia de los Griegos](pdf/historia_de_los_griegos.pdf)
+
+ - Origen: https://freeditorial.com/es/books/historia-de-los-griegos
+ - Categoria: #historia
+ - Autor: Indro Montanelli
+ - Año: 1959
+ - Páginas: 201
+ - Idioma: español
+ - Tamaño: 983K
+
+Indro Montanelli, premio Cervantes y autor de la famosa Historia de Roma, nos cuenta aquí la historia de la Grecia clásica y de aquellos griegos que fueron la cuna de la civilización occidental junto a Roma.
+
+La contribución de Grecia a la civilización occidental es vasta y fascinadora. Historia de los griegos constituye una obra inteligente y rigurosa que devuelve la condición de seres de carne y hueso a los grandes personajes de la cultura griega. Indro Montanelli, reconocido especialista en el tema, ofrece una visión casi periodística de la vida política y sociocultural del mundo griego, y permite conocer una serie de hechos y circunstancias hasta ahora mantenidas en segundo plano por la Historia tradicional.
+
+### [La Crisis](pdf/la_crisis.pdf)
+
+ - Origen: https://freeditorial.com/es/books/la-crisis
+ - Categoria: #historia
+ - Autor: Winston Churchill
+ - Año: 1929
+ - Páginas: 795
+ - Idioma: español
+ - Tamaño: 3.7M
+
+Winston Churchill no fue únicamente un gran líder político y militar sino también un cultivado historiador y un prolífico escritor galardonado con el Premio Nobel de Literatura en el año 1953. A lo largo de estas páginas narra de forma magistral los dramáticos detalles que desde 1911 empezaron a forjar un conflicto a escala mundial y que, por último, desencadenaron la I Guerra Mundial. Asimismo, describe los inicios del concepto bélico moderno dominado por la alta ingeniería, las trincheras, el terror de los civiles y los avances científicos.
+
+### [Orgullo y Prejuicio](pdf/orgullo_y_prejuicio.pdf)
+
+ - Origen: https://freeditorial.com/es/books/orgullo-y-prejuicio
+ - Categoria: #novela #satira
+ - Autor: Jane Austen
+ - Año: 1813
+ - Páginas: 260
+ - Idioma: español
+ - Tamaño: 1.2M
+
+Orgullo y prejuicio es una novela de amor o, mejor, una novela de enamorados. Bingley y Jane, Darcy y Elisabeth, Lydia y Wickham luchan para obtener el objeto de su pasión, deben jugar el juego que la sociedad en que viven les propone y deben ganarlo. Sin saltarse las reglas, pero con un tesón capaz de vencer cualquier barrera, llegarán a toda costa a ese matrimonio que para ellos habrá de marcar el inicio de la felicidad soñada
