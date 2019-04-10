@@ -423,3 +423,60 @@ Este libro se trata de una antología que pretende servir de introducción a la 
  - Tamaño:1.53
 
  En «Poética para cosmonautas» Henry Pierrot explora terrenos fronterizos entre la poesía y el relato. El resultado es un poemario que aúna condensación y transparencia, manteniendo un grado de unidad desde el primer al último verso como pocas veces se ha logrado, intentando realizar un mapa estetico de las galaxias.
+
+### [Hyperion](pdf/Loscantosdelhyperion-Hyperion-1.pdf)
+
+ - Origen: https://archive.org/details/HyperionDanSimmons
+ - Categoria: #ficcion #loscantosdelhyperion
+ - Autor: Dan Simmons
+ - Año: 1989
+ - Páginas: 1820
+ - Idioma: español
+ - Tamaño: 2.8M
+
+Los Cantos de Hyperion de Dan Simmons cuentan la historia de una humanidad en peligro en donde su suerte y su destino se juega en el planeta Hyperion. Siguiendo evidentemente el símil de la Caída de los Titanes por parte de los Dioses olímpicos, las dos primeras partes describen la lenta preparación del cataclismo y Caída del hombre que cristalizará en una nueva era para la humanidad. 
+
+En el siglo XXVIII (28) la humanidad se encuentra expandiéndose por la galaxia, después de haber abandonado el moribundo planeta Tierra original. La llamada Hegemonía del Hombre mantiene la paz en una sorprendente pero evolutivamente estanca y acomodada sociedad que forma la Red de Mundos durante los últimos tres siglos, asesorada por las misteriosas Inteligencias Artificiales, quienes adquirieron conciencia propia y se liberaron del control de hombre siglos atrás para abocarse a sus propios intereses.
+
+
+### [La caida de Hyperion](pdf/loscantosdelhyperion-La-Caida-Del-Hyperion-2.pdf)
+
+ - Origen: https://archive.org/details/LaCaidaDeHyperionDanSimmons
+ - Categoria: #ficcion #loscantosdelhyperion
+ - Autor: Dan Simmons
+ - Año: 1990
+ - Páginas: 2067
+ - Idioma: español
+ - Tamaño: 3.3M
+
+Los Cantos de Hyperion de Dan Simmons cuentan la historia de una humanidad en peligro en donde su suerte y su destino se juega en el planeta Hyperion. Siguiendo evidentemente el símil de la Caída de los Titanes por parte de los Dioses olímpicos, las dos primeras partes describen la lenta preparación del cataclismo y Caída del hombre que cristalizará en una nueva era para la humanidad.
+
+ Este libro arranca en Hyperion, donde los 7 peregrinos (seis, si no contamos el desaparecido Het Masteen) se dirigen a las Tumbas del Tiempo. También sigue los pasos de un cíbrido que es el "gemelo" del cíbrido John Keats del que se enamoró Brawne Lamia. Este John Keats se hace pasar por un pintor y es contratado por Meina Gladstone, la FEM de la Hegemonía del Hombre, para que asista a las reuniones del centro de mando de FUERZA mientras coordinan la batalla por el sistema de Hyperion contra el Enjambre Éxter. Meina quiere cerca a Johny porque él tiene la capacidad de ver, a través de su gemelo que está en el bucle de Schroon en el cuerpo de Lamia, lo que los peregrinos hacen y sienten en tiempo real. Él ve las acciones de los peregrinos durante sus sueños y le reporta su estado a la FEM, pero pronto descubre que no son solo sueños y que él es más que un cíbrido o una IA.
+
+### [Endymion](pdf/loscantosdelhyperion-Endymion-3.pdf)
+
+ - Origen: https://archive.org/details/EndymionDanSimmons
+ - Categoria: #ficcion #loscantosdelhyperion
+ - Autor: Dan Simmons
+ - Año: 1995
+ - Páginas: 465
+ - Idioma: español
+ - Tamaño: 2.1M
+
+Los Cantos de Hyperion de Dan Simmons cuentan la historia de una humanidad en peligro en donde su suerte y su destino se juega en el planeta Hyperion. Siguiendo evidentemente el símil de la Caída de los Titanes por parte de los Dioses olímpicos, las dos primeras partes describen la lenta preparación del cataclismo y Caída del hombre que cristalizará en una nueva era para la humanidad.
+
+La historia comienza aproximadamente 250 años después del final de La caída de Hyperion. La iglesia católica ha evolucionado (ahora se le conoce como Pax) y utiliza el cruciforme, descrito en la saga inicial como arma utilizada por el Tecnonúcleo para mantener en un estado zombi y aprovecharse de sus neuronas, para proveer a los fieles de una resurrección verdadera, haciendo la inmortalidad una realidad y buscando la universalidad de la nueva fe. Esta relativa paz solo se ve amenazada por el temor de la llegada de un nuevo mesías. Un humano originario de Hyperion deberá proteger a ese nuevo mesías que llega desde el pasado a través de La Esfinge, una de las famosas tumbas del tiempo.
+
+### [El Ascenso De Endymion](pdf/loscantosdelhyperion-ElAscensoDeEndymion-4.pdf)
+
+ - Origen: https://archive.org/details/ElAscensoDeEndymionDanSimmons
+ - Categoria: #ficcion #loscantosdelhyperion
+ - Autor: Dan Simmons
+ - Año: 1997
+ - Páginas: 1998
+ - Idioma: español
+ - Tamaño: 2.7M
+
+Los Cantos de Hyperion de Dan Simmons cuentan la historia de una humanidad en peligro en donde su suerte y su destino se juega en el planeta Hyperion. Siguiendo evidentemente el símil de la Caída de los Titanes por parte de los Dioses olímpicos, las dos primeras partes describen la lenta preparación del cataclismo y Caída del hombre que cristalizará en una nueva era para la humanidad.
+
+Narra las peripecias de Aenea, también llamada "La que Enseña", para huir del brazo militar de la Iglesia Católica llamado “Pax”. El antiguo régimen de la Red de Mundos de la Hegemonía del Hombre fue sustituido por una teocracia y la Iglesia, en su afán de mantener el poder, se ha unido al Tecnonúcleo de Inteligencias Artificiales en secreto. Esta traición hacia toda la humanidad es del conocimiento de Aenea; agentes de Pax cazarán a Aenea por distintos mundos de la antigua Red para acallarla.
