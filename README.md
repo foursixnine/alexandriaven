@@ -530,3 +530,30 @@ Winston Churchill no fue únicamente un gran líder político y militar sino tam
  - Tamaño: 1.2M
 
 Orgullo y prejuicio es una novela de amor o, mejor, una novela de enamorados. Bingley y Jane, Darcy y Elisabeth, Lydia y Wickham luchan para obtener el objeto de su pasión, deben jugar el juego que la sociedad en que viven les propone y deben ganarlo. Sin saltarse las reglas, pero con un tesón capaz de vencer cualquier barrera, llegarán a toda costa a ese matrimonio que para ellos habrá de marcar el inicio de la felicidad soñada
+
+### [La marca del Zorro](pdf/la_marca_del_zorro.pdf)
+
+ - Origen: https://freeditorial.com/es/books/la-marca-del-zorro
+ - Categoria: #novela #ficcion
+ - Autor: Johnston McCulley
+ - Año: 1989
+ - Páginas: 170
+ - Idioma: español
+ - Tamaño: 683K
+
+McCulley crea, con esta obra de aventura romántica, uno de los mitos más populares, emblemáticos y de renombre mundial gracias a sus adaptaciones posteriores al cine y la televisión.
+Don Diego De la Vega, un joven noble en la antigua California española de comienzos del siglo XIX, se encuentra con que el gobierno colonial se ha vuelto una tiranía que explota y somete a los habitantes de esas tierras, y decide ponerse una máscara para combatir a
+
+los malhechores,transformándose en un jinete enmascarado que se hace llamar «El Zorro».
+
+### [Los Hombres son de Marte, las Mujeres son de Venus](pdf/los_hombres_son_de_marte_las_mujeres_son_de_venus.pdf)
+
+ - Origen: https://freeditorial.com/es/books/los-hombres-son-de-marte-las-mujeres-son-de-venus 
+ - Categoria: #ensayo
+ - Autor: John Gray
+ - Año: 1992
+ - Páginas: 219
+ - Idioma: español
+ - Tamaño: 895K
+
+La obra de referencia indispensable para comprender las diferencias que existen entre los sexos. John Gray ha ayudado a millones de parejas en todo el mundo a mantener viva la llama del amor. Ningún otro libro sobre las relaciones entre hombres y mujeres ha tenido tanta aceptación por parte de los lectores y ha ejercido una influencia tan profunda como éste. Para demostrarlo, bastaría mencionar sus altas cifras de venta y el hecho de que se ha traducido a prácticamente todas las lenguas existentes. Sin embargo, la mejor prueba de su importancia la encontramos en el invaluable servicio que ha prestado a las parejas, cuyas relaciones se han fortalecido, desarrollado y alcanzado la plenitud vital gracias a la sabiduría práctica desplegada por John Gray. Estamos, sin duda, ante un clásico moderno que es necesario leer y releer. John Gray es doctor en psicología, especializado en terapia de pareja. Internacionalmente reconocido, experto en relaciones y desarrollo personal
